@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Ulin Yu</string>
+    <string name="title_activity_home">MainActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="favorit">Favorit</string>
+    <string name="profile">Profile</string>
+    <string name="cari_tempat">Cari tempat disini ...</string>
+    <string name="kategori">Kategori</string>
+    <string name="taman">Taman</string>
+    <string name="kuliner">Kuliner</string>
+    <string name="gunung">Gunung</string>
+</resources>
